@@ -1,0 +1,6 @@
+{
+  "name": "PC EVENTOS - Anotador de Fechas DJ",
+  "description": "Anotador y calendario de fechas estilo Google Calendar para la empresa DJ PC EVENTOS, con visualización de eventos en verde fluo y tipografía en negro puro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
